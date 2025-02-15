@@ -94,10 +94,6 @@ Before you begin, ensure you have the following installed:
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 📧 Contact
 
-For any inquiries or feedback, please contact [aayushigoyal327@gmail.com](mailto:aayushigoyal327@gmail.com).
+For any inquiries or feedback, please contact [shubhamsingla259@gmail.com](mailto:shubhamsingla259@gmail.com).
